@@ -1,3 +1,19 @@
-p{
+#título{
+	color:darkblue;
+}
+
+#sub{
+	color:darkgreen;
+}
+
+#principal{
+	color:darkred;
+}
+
+#gold{
 	color:darkgoldenrod;
+}
+
+.texto{
+	color:red;
 }
