@@ -1,13 +1,18 @@
+body{
+
+}
+
 #título{
 	color:rgb(139, 69, 22);
 }
 
 #sub{
-	color:maroon;
+	color:#4AFC04;
 }
 
-#principal{
-	color:Teal;
+#paragrafos{
+	color:darkblue;
+	background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs-Zs1jAhbmypFTiTem5s6YzJpLB4tyD2F_Q&usqp=CAU);
 }
 
 #gold{
