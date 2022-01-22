@@ -1,19 +1,19 @@
 #título{
-	color:darkblue;
+	color:rgb(30, 174, 70);
 }
 
 #sub{
-	color:darkgreen;
+	color:maroon;
 }
 
 #principal{
-	color:darkred;
+	color:Teal;
 }
 
 #gold{
-	color:darkgoldenrod;
+	color:Olive;
 }
 
 .texto{
-	color:red;
+	color:Maroon;
 }
