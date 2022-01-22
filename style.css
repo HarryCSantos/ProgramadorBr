@@ -3,22 +3,27 @@ body{
 }
 
 #título{
-	color:rgb(139, 69, 22);
+	color:rgb(13, 10, 200);
 }
 
 #sub{
-	color:#4AFC04;
+	color:rgb(13, 10, 200);
 }
 
 #paragrafos{
 	color:darkblue;
-	background: url(https://wi.wallpapertip.com/wsimgs/0-3788_simple-light-blue-background.jpg);
+	background: url(http://eskipaper.com/images/sunny-day-background-1.jpg);
+}
+
+#titsub{
+	color: darkblue;
+	background: url(https://image.shutterstock.com/image-vector/warm-sun-on-yellow-background-260nw-1379856974.jpg);
 }
 
 #gold{
-	color:Olive;
+	color:darkblue;
 }
 
 .texto{
-	color:Maroon;
+	color:darkblue;
 }
