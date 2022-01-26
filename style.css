@@ -69,14 +69,23 @@ body{
 }*/
 
 .container{
-	font-size: 25px;
-
-	width: 300px;
+	width: 100vw;
 	background: red;
 }
 
 .inside{
-	font-size: 2em;
-	width: 1em;
+	width: 100px;
+	background: blue;
+}
+
+.container{
+	width: 200px;
+	height: 500px;
+	background: red;
+}
+
+.inside{
+	width: 50%;
+	height: 50%;
 	background: blue;
 }
