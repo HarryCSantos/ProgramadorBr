@@ -7,7 +7,7 @@ body{
 }
 
 #sub{
-	color:rgb(13, 10, 200);
+	color:rgb(255, 10, 10);
 }
 
 #paragrafos{
@@ -78,14 +78,3 @@ body{
 	background: blue;
 }
 
-.container{
-	width: 200px;
-	height: 500px;
-	background: red;
-}
-
-.inside{
-	width: 50%;
-	height: 50%;
-	background: blue;
-}
